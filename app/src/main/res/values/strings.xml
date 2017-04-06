@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Frag_Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="app_key">jb4x4pjmv9eofgs</string>
+    <string name="title_activity_files">Files</string>
+</resources>
